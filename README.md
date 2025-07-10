@@ -1,10 +1,10 @@
 # <abbr title="We Think Code_">WTC</abbr>-Journal
 <h1>My WeThinkCode_ Prep Journey</h1>
 <p>Hey, I’m Millie. This repo is where I’m tracking everything I’m learning as I get ready for the WeThinkCode_ course starting in September 2025.
-
+<hr>
 <h3>What’s going on here?</h3>
 Before the course starts, I have a learning plan to follow so I can build a solid base and not get overwhelmed later.
-
+<hr>
 <h3>How I’m doing this</h3>
 I’ll have check-ins every two weeks on Fridays with my Performance Manager to talk about what I’ve done so far.
 
