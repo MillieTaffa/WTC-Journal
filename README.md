@@ -30,6 +30,6 @@ Thanks for stopping by!
 
 <h1>Week 0 Check-In (2025-07-10 15h46)</h1>
 <p>
-  <big>WOW</big>! It has been such an exhilirating week! I've learnt so much about how to navgate the terminal, <br> creating and updating files straight from gitbash and even coding from the terminal itself. <br>
+  <big>WOW</big>! It has been such an exhilirating week! I've learnt so much about how to navigate the terminal, <br> creating and updating files straight from gitbash and even coding from the terminal itself. <br>
   
 </p>
