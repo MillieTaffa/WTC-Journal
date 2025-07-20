@@ -3,6 +3,6 @@ def deep():
     if userInput == "42" or userInput== "forty two" or userInput=="forty-two":
         print("Yes")
     else:
-        print("No")
+        print('No')
 
-deep()
+main()
