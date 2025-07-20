@@ -5,4 +5,4 @@ def deep():
     else:
         print('No')
 
-main()
+deep()
