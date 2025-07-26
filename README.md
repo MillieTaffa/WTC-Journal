@@ -27,9 +27,3 @@ I’ll keep this updated every check-in with what I’ve done and how I’m feel
 
 Thanks for stopping by!
 — Millie</p>
-
-<h1>Week 0 Check-In (2025-07-10 15h46)</h1>
-<p>
-  <big>WOW</big>! It has been such an exhilirating week! I've learnt so much about how to navigate the terminal, <br> creating and updating files straight from gitbash and even coding from the terminal itself. <br>
-  
-</p>
