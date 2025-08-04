@@ -1,5 +1,5 @@
 <div align="center"><h1>🧠WTC-Journal</h1></div> </br>
-<h2>My WeThinkCode_ Prep Journey</h2>
+<div align="center"><h2>My WeThinkCode_ Prep Journey</h2></div>
 Hi, I’m Millie. This repository is my personal learning journal as I prepare for the WeThinkCode_ course starting in September 2025.
 
 <div align="center"><h2>📌 What’s This About?</h2></div>
